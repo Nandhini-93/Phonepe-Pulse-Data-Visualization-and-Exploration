@@ -1,5 +1,6 @@
 # Phonepe-Pulse-Data-Visualization-and-Exploration
-Introduction
+
+# Introduction
 
 The PhonePe Pulse Data Visualization and Exploration project aims to gather valuable information from PhonePe's GitHub repository, process the data, and present it using an interactive dashboard that's visually appealing. This is accomplished using Python, Streamlit, and Plotly.
 The aim of this project is to develop a solution that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository.
