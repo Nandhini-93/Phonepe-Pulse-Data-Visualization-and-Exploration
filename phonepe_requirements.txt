@@ -23,4 +23,4 @@ Clone the repository: https://github.com/Nandhini-93/Phonepe-Pulse-Data-Visualiz
 
 Install the required packages: pip install -r requirements.txt
 
-Run the Streamlit app: streamlit run phone_pe.py
+Run the Streamlit app: streamlit run phonepe.py
