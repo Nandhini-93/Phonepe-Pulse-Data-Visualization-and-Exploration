@@ -1,0 +1,26 @@
+Prerequisites:
+
+1.Python -- Programming Language
+2.plotly -- Python Module that is used for data visualization and supports various graphs
+3.pandas -- Python Library for Data Visualization
+4.streamlit -- Python framework to rapidly build and share beautiful machine learning and data science web apps
+5.git.repo.base -- Python Module that helps to clone the github Repository and the store the data locally
+6.PostgreSQL  -- Python Library that enables Python programs to access POSTGRESQL databases
+7.json -- Python Library that helps parse JSON into a Python dictionary/list, in short open JSON files using Python
+8.os -- Python Module that provides functions for interacting with the operating system
+
+To run this project, you need to install the following packages:
+
+git - https://git-scm.com/downloads
+
+ pip install pandas
+ pip install psycopg2
+ pip install requests
+ pip install streamlit
+ pip install plotly
+
+Clone the repository: https://github.com/Nandhini-93/Phonepe-Pulse-Data-Visualization-and-Exploration
+
+Install the required packages: pip install -r requirements.txt
+
+Run the Streamlit app: streamlit run phone_pe.py
